@@ -102,7 +102,7 @@ const EditorPage = () => {
         }
     
         // Post request to compile endpoint
-        axios.post(`https://devss-on97thvc3-saatvik1808s-projects.vercel.app/compile`, {
+        axios.post(`https://devsss.onrender.com/compile`, {
             code: userCode,
             language: selectedLanguage, // Use selected language
             input: userInput,
