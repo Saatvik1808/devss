@@ -81,7 +81,6 @@ const Home = () => {
                 </div>
             </div>
             <footer>
-                <h4>built by Saatvik</h4>
             </footer>
         </div>
     );
